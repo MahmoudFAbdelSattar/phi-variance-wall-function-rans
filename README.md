@@ -5,7 +5,7 @@ This repository contains the code, data, and supplementary material for the pape
 
 > **A Pointwise \(\phi\)-Variance Wall Function with Calibrated RANS Inputs for Turbulent Channel Flow**  
 > Mahmoud F. Abdel-Sattar  
-> *Journal of Turbulence* (submitted, 2025)
+> *Journal of Turbulence* (submitted, 2026)
 
 ## Overview
 
